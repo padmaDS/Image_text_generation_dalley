@@ -1,0 +1,6 @@
+openai
+python-dotenv
+requests
+pillow
+opencv-python
+flask
